@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1059128156584-tlifd9ru797650ofcotmhcus88mgtubs.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1059128156584-tlifd9ru797650ofcotmhcus88mgtubs</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCqOEUuaAA9cZv0t7Aga2SX3hHmapdoI94</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1059128156584</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.flutterflow.finwallet</string>
+	<key>PROJECT_ID</key>
+	<string>pplp-puhmlr</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pplp-puhmlr.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1059128156584:ios:be99d2476808bc57527d9d</string>
+</dict>
+</plist>
